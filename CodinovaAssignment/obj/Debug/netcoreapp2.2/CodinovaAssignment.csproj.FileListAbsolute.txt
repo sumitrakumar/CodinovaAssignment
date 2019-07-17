@@ -1,0 +1,14 @@
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\bin\Debug\netcoreapp2.2\CodinovaAssignment.deps.json
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\bin\Debug\netcoreapp2.2\CodinovaAssignment.runtimeconfig.json
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\bin\Debug\netcoreapp2.2\CodinovaAssignment.runtimeconfig.dev.json
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\bin\Debug\netcoreapp2.2\CodinovaAssignment.dll
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\bin\Debug\netcoreapp2.2\CodinovaAssignment.pdb
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.RazorAssemblyInfo.cache
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.RazorAssemblyInfo.cs
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.AssemblyInfoInputs.cache
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.AssemblyInfo.cs
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.dll
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.pdb
+C:\Users\nabeel\Desktop\CodinovaAssignment\CodinovaAssignment\obj\Debug\netcoreapp2.2\CodinovaAssignment.csprojAssemblyReference.cache
